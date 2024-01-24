@@ -7,6 +7,11 @@ Hosting a Wordpress Website on AWS EC2 which directs to our own DNS
 Goal of my project is to install and host a Wordpress website directly on my self-owned domain and the backend will contain all the data and confingurations required on AWS Cloud. I will be creating and renting a Virtual computer (AWS EC2), and this will also include installing and configuration all the elements such as Apache2 webserver, DBMS which will be MySQL, and then i will install wordpress. After installing wordpress, I will assign my self-owned domain name to the wordpress website. Whenever someone goes to the domain they will be directed to my wordpress on AWS cloud.
 
 
+# Architecture Diagram
+
+![image](https://github.com/ankurcyb/Hosting-WordPress-on-AWS-EC2/assets/141453942/0e2b6967-f6ac-40d7-830f-b33b32dd7ba2)
+
+
 # Terms
 
 ## what is a Virtual Computer/Machine ?
